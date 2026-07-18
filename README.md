@@ -2,10 +2,10 @@
 
 Claude / Agent **skills** library by **Poorvith M P**.
 
-- Version: **v0.1**
+- Version: **v0.2**
 - Last updated: **July 2026**
 - License: **MIT**
-- Skills in this repo: **27**
+- Skills in this repo: **29**
 
 Part of the **[open-claude-skills](https://github.com/prvthmpcypher/open-claude-skills)** multi-repo hub.
 
@@ -26,6 +26,7 @@ Zip a single `skills/<skill-id>` folder and upload via **Settings → Capabiliti
 
 | Skill ID | Title |
 |----------|-------|
+| `board-deck-builder` | Board Deck Builder |
 | `business-plan-outliner` | Business Plan Outliner |
 | `client-proposal-writer` | Client Proposal Writer |
 | `contract-clause-explainer` | Contract Clause Explainer |
@@ -52,6 +53,7 @@ Zip a single `skills/<skill-id>` folder and upload via **Settings → Capabiliti
 | `trend-researcher` | Trend Researcher |
 | `upwork` | Upwork |
 | `upwork-proposal` | Upwork Proposal |
+| `vendor-procurement-manager` | Vendor & Procurement Manager |
 | `weekly-review-system` | Weekly Review System |
 
 ## Structure
@@ -68,3 +70,4 @@ skills/<skill-id>/
 ## Author
 
 Copyright (c) 2026 Poorvith M P
+Follow the build: [@poorvith_mp](https://x.com/poorvith_mp)
