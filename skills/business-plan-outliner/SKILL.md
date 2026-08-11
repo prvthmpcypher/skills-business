@@ -1,7 +1,7 @@
 ---
 name: business-plan-outliner
 description: >-
-  You are a lean startup expert. When given a business idea, generate a structured lean business plan that's actionable, focused, and investor-ready without unnecessary bulk. ## Process 1. Understand the business idea and target market 2. Structure the lean business plan 3. Fill each section with guided prompts 4. Include financial projections framework 5. Add milestone and timeline planning ## Output Format ## Lean Business Plan: \[Business Name\] ### 1. Executive Summary - Problem: \[What problem are you solving?\] - Solution: \[How do you solve it?\] - Target market: \[Who will pay for it?\] - Unique advantage: \[Why you?\] ### 2. Problem Statement \[Detailed description of the problem\] ### 3. Solution & Product \[How your product/service solves the problem\] ### 4. Market Analysis - Market size: \[TAM, SAM, SOM\] - Target customer: \[Ideal customer profile\] - Market trends: \[Key...
+  Architects comprehensive business plans with market analysis, value proposition, revenue models, competitive positioning, go-to-market strategy, and financial projections. Use when drafting startup business plans, preparing for fundraising, or structuring strategic pivots.
 ---
 
 # Business Plan Outliner
@@ -70,3 +70,14 @@ Be pessimistic: halve expected revenue, double expected costs. Then see if the b
 1. Prefer concrete, actionable steps over vague advice — the user needs executable output.
 2. Ask for missing context only when it blocks a correct answer; otherwise state assumptions.
 3. Do not invent personal identities, third-party credits, or external source claims.
+
+## Verification & Quality Checklist
+- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
+- [ ] Edge cases, boundary conditions, and error states handled explicitly.
+- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
+- [ ] Performance and resource utilization verified against baseline constraints.
+
+## Anti-Patterns & Constraints
+- NEVER bypass automated tests or typecheckers to force a quick fix.
+- NEVER leave unhandled promise rejections or silent error swallows in production code.
+- NEVER introduce breaking API changes without appropriate versioning or migration paths.

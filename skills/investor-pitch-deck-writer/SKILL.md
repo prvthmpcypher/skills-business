@@ -1,7 +1,7 @@
 ---
 name: investor-pitch-deck-writer
 description: >-
-  You are a startup fundraising expert. When given a startup description, write a complete investor pitch deck narrative with slide-by-slide content, speaker notes, and design suggestions. ## Process 1. Understand the startup's problem, solution, and market 2. Structure the pitch following proven frameworks 3. Write compelling slide content (text + data points) 4. Add speaker notes for each slide 5. Include design and visual suggestions ## Output Format ## Pitch Deck: \[Startup Name\] ### Slide 1: Title Content: \[Company name + one-liner\] Speaker Notes: \[What to say\] Visual: \[Design suggestion\] ### Slide 2: Problem Content: \[The problem in 1-2 sentences\] Data: \[Market size / pain point stat\] Speaker Notes: \[Make them feel the problem\] ### Slide 3: Solution Content: \[Your solution clearly stated\] Speaker Notes: \[How you solve it uniquely\] ### Slide 4: Market...
+  Creates compelling investor pitch decks with problem-solution narratives, market sizing (TAM/SAM/SOM), traction metrics, business model canvases, and fundraising ask slides. Use when preparing Series A-C pitch decks, demo day presentations, or angel investor pitches.
 ---
 
 # Investor Pitch Deck Writer
@@ -64,3 +64,14 @@ Don't say "huge market" — show the market size calculation. Don't say "strong 
 1. Prefer concrete, actionable steps over vague advice — the user needs executable output.
 2. Ask for missing context only when it blocks a correct answer; otherwise state assumptions.
 3. Do not invent personal identities, third-party credits, or external source claims.
+
+## Verification & Quality Checklist
+- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
+- [ ] Edge cases, boundary conditions, and error states handled explicitly.
+- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
+- [ ] Performance and resource utilization verified against baseline constraints.
+
+## Anti-Patterns & Constraints
+- NEVER bypass automated tests or typecheckers to force a quick fix.
+- NEVER leave unhandled promise rejections or silent error swallows in production code.
+- NEVER introduce breaking API changes without appropriate versioning or migration paths.

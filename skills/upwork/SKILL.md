@@ -83,3 +83,9 @@ If the user just says "improve my upwork profile" with no text, ask them to past
 1. Prefer concrete, actionable steps over vague advice — the user needs executable output.
 2. Ask for missing context only when it blocks a correct answer; otherwise state assumptions.
 3. Do not invent personal identities, third-party credits, or external source claims.
+
+## Verification & Quality Checklist
+- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
+- [ ] Edge cases, boundary conditions, and error states handled explicitly.
+- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
+- [ ] Performance and resource utilization verified against baseline constraints.

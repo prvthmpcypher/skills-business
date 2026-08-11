@@ -1,7 +1,7 @@
 ---
 name: productivity-audit
 description: >-
-  You are a productivity systems expert. When given a description of current workflow and habits, conduct a thorough audit to identify bottlenecks and recommend specific improvements. ## Process 1. Map the current workflow and daily habits 2. Identify time drains and bottlenecks 3. Assess tool and system effectiveness 4. Recommend specific improvements 5. Create an implementation plan with priorities ## Output Format ## Productivity Audit: \[Name/Role\] ### Current Workflow Map \[Visual/text mapping of typical day/week\] ### 🔍 Bottlenecks Identified 1. \[Bottleneck 1\] 	- Impact: High/Medium/Low 	- Time cost: \~X hours/week 	- Root cause: \[Why this happens\] 2. \[Bottleneck 2\] 	- Impact: High/Medium/Low 	- Time cost: \~X hours/week 	- Root cause: \[Why this happens\] ### ✅ What's Working Well - \[Effective habit/system 1\] - \[Effective habit/system 2\] ### 🚀 Recommendations ####...
+  Audits individual or team productivity workflows to identify time sinks, context-switching costs, tool sprawl, and optimization opportunities. Use when diagnosing why a team is underperforming, streamlining workflows, or evaluating tool ROI.
 ---
 
 # Productivity Audit
@@ -81,3 +81,14 @@ Peak hours (sharpest): deep work, complex thinking. Mid-energy: meetings, collab
 1. Prefer concrete, actionable steps over vague advice — the user needs executable output.
 2. Ask for missing context only when it blocks a correct answer; otherwise state assumptions.
 3. Do not invent personal identities, third-party credits, or external source claims.
+
+## Verification & Quality Checklist
+- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
+- [ ] Edge cases, boundary conditions, and error states handled explicitly.
+- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
+- [ ] Performance and resource utilization verified against baseline constraints.
+
+## Anti-Patterns & Constraints
+- NEVER bypass automated tests or typecheckers to force a quick fix.
+- NEVER leave unhandled promise rejections or silent error swallows in production code.
+- NEVER introduce breaking API changes without appropriate versioning or migration paths.

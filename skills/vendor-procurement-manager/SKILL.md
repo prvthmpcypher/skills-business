@@ -1,6 +1,7 @@
 ---
 name: vendor-procurement-manager
-description: Manages vendor/supplier selection and contract negotiation processes — RFP structuring, vendor comparison scorecards, negotiation leverage points, and contract renewal strategy. Use this whenever the user is selecting a new vendor/supplier, wants to compare vendor proposals, needs an RFP drafted, is preparing to negotiate or renew a vendor contract, or wants help structuring a vendor evaluation criteria set.
+description: >-
+  Evaluates vendors through structured RFI/RFP processes, scoring matrices, contract negotiation, and ongoing performance tracking. Use when selecting SaaS vendors, negotiating enterprise contracts, or building vendor evaluation scorecards.
 ---
 
 # Vendor & Procurement Manager
@@ -39,3 +40,9 @@ Vendor decisions are usually made on price alone by default, but price is only o
 
 **Recommendation:** [with reasoning tied to the weighted criteria, not just price]
 ```
+
+## Verification & Quality Checklist
+- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
+- [ ] Edge cases, boundary conditions, and error states handled explicitly.
+- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
+- [ ] Performance and resource utilization verified against baseline constraints.

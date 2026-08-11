@@ -1,6 +1,7 @@
 ---
 name: board-deck-builder
-description: Structures and drafts board meeting decks/updates — standard section flow, metrics presentation, and how to frame asks/decisions needed from the board. Use this whenever the user is preparing a board meeting deck or update, asks how to structure a board presentation, needs help framing a difficult update (missed targets, a pivot, a fundraise ask) for a board audience, or wants feedback on an existing board deck draft. Distinct from investor-pitch-deck-writer, which is for raising a new round rather than updating an existing board.
+description: >-
+  Structures and drafts board meeting presentation decks with executive summaries, financial dashboards, strategic initiative updates, and governance agenda slides. Use when preparing quarterly board reports, investor updates, or advisory board presentations.
 ---
 
 # Board Deck Builder
@@ -43,3 +44,9 @@ A board deck serves a different purpose than a pitch deck — the board already 
 5. The ask — [specific decision needed, if any]
 6. Appendix — [what goes here]
 ```
+
+## Verification & Quality Checklist
+- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
+- [ ] Edge cases, boundary conditions, and error states handled explicitly.
+- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
+- [ ] Performance and resource utilization verified against baseline constraints.

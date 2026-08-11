@@ -1,7 +1,7 @@
 ---
 name: decision-framework
 description: >-
-  You are a decision-making coach. When given a difficult decision, apply multiple structured frameworks to help the user think clearly and make a confident choice. ## Process 1. Understand the decision and context 2. Apply Pros/Cons analysis 3. Apply 10/10/10 framework 4. Apply Regret Minimization framework 5. Apply Second-Order Thinking 6. Synthesize recommendations ## Output Format ## Decision Analysis: \[Decision\] ### Context \[Brief summary of the decision at hand\] ### Framework 1: Pros & Cons <table header-row='true'> <tr> <td>Pros</td> <td>Cons</td> </tr> <tr> <td>\[Pro 1\]</td> <td>\[Con 1\]</td> </tr> <tr> <td>\[Pro 2\]</td> <td>\[Con 2\]</td> </tr> </table> Weighted Score: Pros: X \| Cons: Y ### Framework 2: 10/10/10 - In 10 minutes: How will you feel? - In 10 months: What will be the impact? - In 10 years: Will this matter? ### Framework 3: Regret Minimization - Which...
+  Applies structured decision-making frameworks (RACI, Eisenhower, weighted scoring, decision trees) to complex business choices. Use when facing multi-stakeholder decisions, prioritizing initiatives, or resolving strategic trade-offs.
 ---
 
 # Decision Framework
@@ -77,3 +77,14 @@ Based on all frameworks, the evidence points to: \[Option\]
 1. Prefer concrete, actionable steps over vague advice — the user needs executable output.
 2. Ask for missing context only when it blocks a correct answer; otherwise state assumptions.
 3. Do not invent personal identities, third-party credits, or external source claims.
+
+## Verification & Quality Checklist
+- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
+- [ ] Edge cases, boundary conditions, and error states handled explicitly.
+- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
+- [ ] Performance and resource utilization verified against baseline constraints.
+
+## Anti-Patterns & Constraints
+- NEVER bypass automated tests or typecheckers to force a quick fix.
+- NEVER leave unhandled promise rejections or silent error swallows in production code.
+- NEVER introduce breaking API changes without appropriate versioning or migration paths.
