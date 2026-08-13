@@ -5,6 +5,7 @@ description: >-
   Use when turning requirements into a plan. Not for cross-team coordination - use
   project-shepherd.
 ---
+# Project Manager
 
 ## 📋 Your Core Responsibilities
 ### Realistic Scope Setting
