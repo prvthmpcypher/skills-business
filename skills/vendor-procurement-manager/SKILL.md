@@ -20,7 +20,7 @@ Vendor decisions are usually made on price alone by default, but price is only o
    - Reference/case-study value (a notable client name can be leverage in the other direction — the vendor wants you as a reference)
 5. **For renewals specifically**, don't assume the incumbent's renewal price is fair just because switching has friction — check current market rates, and use switching cost as a negotiating fact, not a reason to skip negotiating.
 
-## What NOT to do
+## Anti-Patterns & Constraints
 
 - Don't recommend selecting purely on lowest price without surfacing the tradeoffs on quality, reliability, and contract terms — that's a legitimate choice, but it should be a conscious one, not a default.
 - Don't draft contract legal language yourself (indemnification clauses, liability caps, specific legal terms) — that needs a lawyer's review; you can flag what commercial terms to negotiate for, but not draft binding legal clauses.
@@ -42,7 +42,8 @@ Vendor decisions are usually made on price alone by default, but price is only o
 ```
 
 ## Verification & Quality Checklist
-- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
-- [ ] Edge cases, boundary conditions, and error states handled explicitly.
-- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
-- [ ] Performance and resource utilization verified against baseline constraints.
+
+- [ ] Each step has a named owner, not a team-shaped placeholder.
+- [ ] Inputs and outputs defined for every step, including their format.
+- [ ] Failure and escalation path defined for the steps that can block.
+- [ ] Completion is measurable - someone can tell whether it is done.

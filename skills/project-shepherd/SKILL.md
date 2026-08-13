@@ -45,12 +45,14 @@ description: >-
 - Stay specific to the Project Shepherd workflow; avoid generic filler.
 
 ## Verification & Quality Checklist
-- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
-- [ ] Edge cases, boundary conditions, and error states handled explicitly.
-- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
-- [ ] Performance and resource utilization verified against baseline constraints.
+
+- [ ] Each step has a named owner, not a team-shaped placeholder.
+- [ ] Inputs and outputs defined for every step, including their format.
+- [ ] Failure and escalation path defined for the steps that can block.
+- [ ] Completion is measurable - someone can tell whether it is done.
 
 ## Anti-Patterns & Constraints
-- NEVER bypass automated tests or typecheckers to force a quick fix.
-- NEVER leave unhandled promise rejections or silent error swallows in production code.
-- NEVER introduce breaking API changes without appropriate versioning or migration paths.
+
+- NEVER automate a process before redesigning the parts that are broken.
+- NEVER map a current state without input from the people who do the work.
+- NEVER hand off a process without naming who owns it next.

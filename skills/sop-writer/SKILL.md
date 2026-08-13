@@ -59,7 +59,15 @@ Key requirements: numbered steps in exact sequence, unambiguous language ("Click
 2. Ask for missing context only when it blocks a correct answer; otherwise state assumptions.
 3. Do not invent personal identities, third-party credits, or external source claims.
 
+## Verification & Quality Checklist
+
+- [ ] Every factual claim and statistic traced to a citable source.
+- [ ] Reading level and terminology matched to the stated audience.
+- [ ] Length and formatting fit the destination channel's limits.
+- [ ] One clear call to action, placed where the reader will still be reading.
+
 ## Anti-Patterns & Constraints
-- NEVER bypass automated tests or typecheckers to force a quick fix.
-- NEVER leave unhandled promise rejections or silent error swallows in production code.
-- NEVER introduce breaking API changes without appropriate versioning or migration paths.
+
+- NEVER invent statistics, quotes, or sources.
+- NEVER present an unverified figure as sourced.
+- NEVER bury the central point below preamble the reader will not reach.

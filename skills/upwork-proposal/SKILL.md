@@ -88,7 +88,8 @@ Once you have enough info, output:
 3. Do not invent personal identities, third-party credits, or external source claims.
 
 ## Verification & Quality Checklist
-- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
-- [ ] Edge cases, boundary conditions, and error states handled explicitly.
-- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
-- [ ] Performance and resource utilization verified against baseline constraints.
+
+- [ ] Every factual claim and statistic traced to a citable source.
+- [ ] Reading level and terminology matched to the stated audience.
+- [ ] Length and formatting fit the destination channel's limits.
+- [ ] One clear call to action, placed where the reader will still be reading.

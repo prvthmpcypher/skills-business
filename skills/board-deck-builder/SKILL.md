@@ -24,7 +24,7 @@ A board deck serves a different purpose than a pitch deck — the board already 
 - **Every metric needs a comparison point** — a number without a trend line or target comparison doesn't tell the board whether it's good or bad.
 - **Keep the deck itself lean; put depth in the appendix or verbal discussion** — a board deck that tries to be comprehensive on every slide loses the signal in noise.
 
-## What NOT to do
+## Anti-Patterns & Constraints
 
 - Don't spin a miss as a win through selective framing — boards see through this quickly, and it costs more trust long-term than direct reporting of a genuine shortfall.
 - Don't bury the ask — if there's a decision needed, it should be unmistakable, not something the board has to infer from context.
@@ -46,7 +46,9 @@ A board deck serves a different purpose than a pitch deck — the board already 
 ```
 
 ## Verification & Quality Checklist
-- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
-- [ ] Edge cases, boundary conditions, and error states handled explicitly.
-- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
-- [ ] Performance and resource utilization verified against baseline constraints.
+
+- [ ] Every input figure traced to a named source with an as-of date.
+- [ ] Arithmetic reconciles: components tie to totals, periods tie to the annual figure.
+- [ ] Each assumption stated explicitly with a plausible range, not a single point.
+- [ ] Sensitivity shown on the three drivers with the largest effect on the result.
+- [ ] Units, currency, and time period labelled on every figure presented.
