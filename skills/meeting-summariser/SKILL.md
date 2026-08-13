@@ -1,7 +1,8 @@
 ---
 name: meeting-summariser
 description: >-
-  Transforms meeting recordings or notes into structured summaries with key decisions, action items, owners, deadlines, and unresolved parking lot items. Use when summarizing team standups, leadership meetings, client calls, or project retrospectives.
+  Turns meeting notes or transcripts into decisions, action items with owners and deadlines, and a
+  parking lot. Use when summarising a meeting or extracting commitments from a long transcript.
 ---
 
 # Meeting Summariser

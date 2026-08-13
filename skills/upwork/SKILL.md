@@ -1,7 +1,9 @@
 ---
 name: upwork
 description: >-
-  [PROOF — 3-4 dollar-amount/metric bullets with → or ✅] → I save over $X in operating costs through [specialty] → I've scaled [client/industry] from [start] to $X annually → [Brand name]: $X saved through [your work]. Use when the user asks about upwork, needs this workflow, or requests related deliverables.
+  Builds an Upwork freelance profile and positioning: specialism, proof points and rate strategy.
+  Use when setting up a profile or repositioning to win better work. Not for individual bids - use
+  upwork-proposal.
 ---
 
 # Upwork Profile Skill

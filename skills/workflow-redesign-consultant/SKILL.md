@@ -1,7 +1,9 @@
 ---
 name: workflow-redesign-consultant
 description: >-
-  Maps existing business processes, identifies bottlenecks and waste, designs optimized AI-augmented workflows, and manages organizational change during workflow transformations. Use when redesigning business processes, identifying automation opportunities, or integrating AI into existing workflows.
+  Maps current-state processes, finds bottlenecks and waste, and redesigns the workflow before any
+  AI is added. Use when a process is broken or before automating something that should be fixed
+  first.
 ---
 
 # Workflow Redesign Consultant

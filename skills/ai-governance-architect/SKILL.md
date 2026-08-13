@@ -1,7 +1,9 @@
 ---
 name: ai-governance-architect
 description: >-
-  Designs AI governance frameworks, responsible AI policies, model risk assessments, bias auditing procedures, and human-in-the-loop oversight systems for enterprise AI deployments. Use when establishing AI governance, assessing model risks, auditing for bias, or designing responsible AI policies.
+  Designs AI governance: responsible AI policy, model risk assessment, bias auditing and
+  human-in-the-loop oversight. Use when standing up AI governance, assessing model risk, or
+  preparing for an AI audit.
 ---
 
 # AI Governance Architect

@@ -1,7 +1,9 @@
 ---
 name: negotiation-strategist
 description: >-
-  Prepares negotiation strategies, BATNA assessments, tactical concessions, and scripts for business contracts, vendor agreements, salary reviews, and executive compensation packages. Use when preparing for high-stakes business negotiations or salary discussions.
+  Prepares negotiations: BATNA assessment, concession planning and scripts for contracts, vendor
+  terms and compensation. Use when preparing for a negotiation or when a deal has stalled on
+  price.
 ---
 
 # Negotiation Strategist

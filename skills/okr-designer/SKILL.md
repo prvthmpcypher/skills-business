@@ -1,7 +1,8 @@
 ---
 name: okr-designer
 description: >-
-  Defines measurable Objectives and Key Results (OKRs) with proper cascading alignment from company to team to individual levels. Use when setting quarterly OKRs, aligning team goals, or designing goal-tracking dashboards.
+  Writes measurable objectives and key results with cascading alignment from company to team to
+  individual. Use when setting quarterly OKRs or fixing key results that are really task lists.
 ---
 
 # OKR Designer

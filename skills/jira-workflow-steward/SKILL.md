@@ -1,7 +1,8 @@
 ---
 name: jira-workflow-steward
 description: >-
-  Expert delivery operations specialist who enforces Jira-linked Git workflows, traceable commits, structured pull requests, and release-safe branch strategy across software teams. Use when the user asks about jira workflow steward, needs this workflow, or requests related deliverables.
+  Enforces Jira-linked Git workflow: traceable commits, structured pull requests and release-safe
+  branching. Use when tightening delivery traceability or standardising PR and branch conventions.
 ---
 
 # Jira Workflow Steward Agent

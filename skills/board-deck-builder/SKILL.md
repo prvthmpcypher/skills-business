@@ -1,7 +1,9 @@
 ---
 name: board-deck-builder
 description: >-
-  Structures and drafts board meeting presentation decks with executive summaries, financial dashboards, strategic initiative updates, and governance agenda slides. Use when preparing quarterly board reports, investor updates, or advisory board presentations.
+  Drafts board decks: executive summary, financial dashboard, initiative updates and governance
+  agenda. Use when preparing a board meeting. Not for fundraising decks - use
+  investor-pitch-deck-writer.
 ---
 
 # Board Deck Builder

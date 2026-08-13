@@ -1,7 +1,8 @@
 ---
 name: investor-pitch-deck-writer
 description: >-
-  Creates compelling investor pitch decks with problem-solution narratives, market sizing (TAM/SAM/SOM), traction metrics, business model canvases, and fundraising ask slides. Use when preparing Series A-C pitch decks, demo day presentations, or angel investor pitches.
+  Builds investor decks: problem-solution narrative, TAM/SAM/SOM sizing, traction, business model
+  and the ask. Use when raising a round. Not for board reporting - use board-deck-builder.
 ---
 
 # Investor Pitch Deck Writer

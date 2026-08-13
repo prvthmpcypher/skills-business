@@ -1,7 +1,9 @@
 ---
 name: decision-framework
 description: >-
-  Applies structured decision-making frameworks (RACI, Eisenhower, weighted scoring, decision trees) to complex business choices. Use when facing multi-stakeholder decisions, prioritizing initiatives, or resolving strategic trade-offs.
+  Applies structured decision frameworks - RACI, Eisenhower, weighted scoring, decision trees - to
+  a business choice. Use when a multi-stakeholder decision is stuck. Not for thinking models - use
+  mental-model-teacher.
 ---
 
 # Decision Framework

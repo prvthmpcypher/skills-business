@@ -1,7 +1,9 @@
 ---
 name: studio-producer
 description: >-
-  Senior strategic leader specializing in high-level creative and technical project orchestration, resource allocation, and multi-project portfolio management. Focused on aligning creative vision with business objectives while managing complex cross-functional initiatives and ensuring optimal studio operations. Use when the user asks about studio producer, needs this workflow, or requests related deliverables.
+  Orchestrates creative and technical projects across a portfolio: resource allocation and
+  cross-project sequencing. Use when balancing multiple projects. Not for daily ops - use
+  studio-operations.
 ---
 
 # Studio Producer Agent

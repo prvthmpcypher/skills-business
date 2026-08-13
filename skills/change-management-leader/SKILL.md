@@ -1,7 +1,9 @@
 ---
 name: change-management-leader
 description: >-
-  Designs organizational change management strategies for technology rollouts, AI adoption programs, and process transformations using frameworks like ADKAR, Kotter's 8 Steps, and Prosci methodology. Use when leading organizational change, managing AI adoption resistance, or designing training programs for new tools.
+  Plans organisational change for technology and AI rollouts using ADKAR and Kotter: stakeholder
+  alignment, training and adoption metrics. Use when a rollout is meeting resistance or planning
+  adoption.
 ---
 
 # Change Management Leader

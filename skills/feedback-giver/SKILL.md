@@ -1,7 +1,9 @@
 ---
 name: feedback-giver
 description: >-
-  Crafts constructive, actionable professional feedback using SBI (Situation-Behavior-Impact) and other frameworks for performance reviews, peer reviews, and 360 assessments. Use when writing performance evaluations, delivering difficult feedback, or coaching team members.
+  Writes constructive feedback using Situation-Behavior-Impact for performance reviews, peer
+  reviews and 360s. Use when delivering difficult feedback or writing a review that has to land
+  without defensiveness.
 ---
 
 # Feedback Giver

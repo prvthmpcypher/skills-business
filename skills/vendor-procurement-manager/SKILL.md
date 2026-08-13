@@ -1,7 +1,8 @@
 ---
 name: vendor-procurement-manager
 description: >-
-  Evaluates vendors through structured RFI/RFP processes, scoring matrices, contract negotiation, and ongoing performance tracking. Use when selecting SaaS vendors, negotiating enterprise contracts, or building vendor evaluation scorecards.
+  Runs vendor selection: RFI/RFP process, scoring matrices, contract negotiation and performance
+  tracking. Use when choosing a SaaS vendor, negotiating renewal terms, or comparing bids.
 ---
 
 # Vendor & Procurement Manager

@@ -1,7 +1,8 @@
 ---
 name: notion-database-architect
 description: >-
-  Designs structured Notion workspace architectures with linked databases, rollup properties, formula fields, views, and template systems. Use when building Notion-based project trackers, CRM systems, content calendars, or knowledge bases.
+  Designs Notion workspaces with linked databases, rollups, formula fields, views and templates.
+  Use when building a Notion system or fixing a workspace that has outgrown its structure.
 ---
 
 # Notion Database Architect

@@ -1,7 +1,8 @@
 ---
 name: experiment-tracker
 description: >-
-  Expert project manager specializing in experiment design, execution tracking, and data-driven decision making. Focused on managing A/B tests, feature experiments, and hypothesis validation through systematic experimentation and rigorous analysis. Use when the user asks about experiment tracker, needs this workflow, or requests related deliverables.
+  Designs and tracks A/B tests and feature experiments: hypothesis, sample size, guardrail metrics
+  and readout. Use when running an experiment or deciding whether a result is real.
 ---
 
 # Experiment Tracker

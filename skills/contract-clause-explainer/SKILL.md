@@ -1,7 +1,9 @@
 ---
 name: contract-clause-explainer
 description: >-
-  Analyzes legal contract clauses, explains implications in plain language, identifies risk areas, and suggests protective amendments. Use when reviewing NDAs, SaaS agreements, vendor contracts, or partnership terms.
+  Explains contract clauses in plain language, flags risk and suggests protective amendments. Use
+  when reviewing an NDA, SaaS agreement or MSA. Name the jurisdiction; a lawyer must review the
+  result.
 ---
 
 # Contract Clause Explainer

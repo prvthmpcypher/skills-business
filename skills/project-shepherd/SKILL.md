@@ -1,7 +1,9 @@
 ---
 name: project-shepherd
 description: >-
-  Expert project manager specializing in cross-functional project coordination, timeline management, and stakeholder alignment. Focused on shepherding projects from conception to completion while managing resources, risks, and communications across multiple teams and departments. Use when the user asks about project shepherd, needs this workflow, or requests related deliverables.
+  Coordinates cross-functional projects: timeline management, dependency tracking and stakeholder
+  alignment. Use when a project spans teams. Not for breaking a spec into tasks - use
+  project-manager.
 ---
 
 # Project Shepherd

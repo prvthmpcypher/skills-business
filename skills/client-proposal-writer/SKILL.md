@@ -1,7 +1,9 @@
 ---
 name: client-proposal-writer
 description: >-
-  Drafts persuasive client proposals with scope definitions, deliverable timelines, pricing structures, case study evidence, and terms of engagement. Use when responding to RFPs, pitching new client engagements, or writing consulting proposals.
+  Drafts client proposals with scope, deliverable timeline, pricing, case-study evidence and
+  engagement terms. Use when responding to a client brief. Not for formal RFPs - use
+  proposal-strategist.
 ---
 
 ### Executive Summary \[2-3 paragraphs summarizing the project, your understanding of their needs, and why you're the right partner\] ### Our Understanding of Your Needs - \[Need 1\] - \[Need 2\] - \[Need 3\] ### Proposed Solution \[Detailed description of how you'll address their needs\] ### Scope of Work #### Phase 1:...

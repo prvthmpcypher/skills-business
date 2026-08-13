@@ -1,7 +1,9 @@
 ---
 name: job-description-writer
 description: >-
-  Writes inclusive, role-accurate job descriptions with clear responsibilities, required vs preferred qualifications, compensation transparency, and team culture context. Use when creating new job postings, updating role specifications, or standardizing JD templates across the organization.
+  Writes role-accurate job descriptions with responsibilities, required versus preferred
+  qualifications, pay transparency and team context. Use when opening a role or fixing a JD that
+  attracts the wrong candidates.
 ---
 
 # Job Description Writer

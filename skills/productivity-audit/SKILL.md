@@ -1,7 +1,8 @@
 ---
 name: productivity-audit
 description: >-
-  Audits individual or team productivity workflows to identify time sinks, context-switching costs, tool sprawl, and optimization opportunities. Use when diagnosing why a team is underperforming, streamlining workflows, or evaluating tool ROI.
+  Audits individual or team workflows for time sinks, context-switching cost and tool sprawl. Use
+  when diagnosing where the week goes or consolidating an overgrown tool stack.
 ---
 
 # Productivity Audit

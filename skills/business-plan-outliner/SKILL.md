@@ -1,7 +1,9 @@
 ---
 name: business-plan-outliner
 description: >-
-  Architects comprehensive business plans with market analysis, value proposition, revenue models, competitive positioning, go-to-market strategy, and financial projections. Use when drafting startup business plans, preparing for fundraising, or structuring strategic pivots.
+  Builds business plans with market analysis, value proposition, revenue model, competitive
+  positioning, go-to-market and financial projections. Use when writing a business plan or
+  pressure-testing a new venture.
 ---
 
 # Business Plan Outliner

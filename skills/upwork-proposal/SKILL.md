@@ -1,7 +1,8 @@
 ---
 name: upwork-proposal
 description: >-
-  [One line mirroring their specific pain in their words] — that's exactly the kind of [system / build / problem] I work on. [One sentence proof: specific past project + number outcome, matched to their vertical]. Use when the user asks about upwork proposal, needs this workflow, or requests related deliverables.
+  Writes a proposal for a specific Upwork job: mirrors the client's stated pain, gives targeted
+  proof and a clear next step. Use when bidding on a posting. Not for profile setup - use upwork.
 ---
 
 # Upwork Proposal Writer

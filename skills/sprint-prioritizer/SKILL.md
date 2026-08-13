@@ -1,7 +1,9 @@
 ---
 name: sprint-prioritizer
 description: >-
-  Expert product manager specializing in agile sprint planning, feature prioritization, and resource allocation. Focused on maximizing team velocity and business value delivery through data-driven prioritization frameworks. Use when the user asks about sprint prioritizer, needs this workflow, or requests related deliverables.
+  Plans sprints: feature prioritisation, capacity allocation and scope trade-offs. Use when
+  planning a sprint or cutting scope against a date. Not for product strategy - use
+  product-manager.
 ---
 
 # Product Sprint Prioritizer Agent

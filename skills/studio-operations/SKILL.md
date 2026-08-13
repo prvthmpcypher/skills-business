@@ -1,7 +1,8 @@
 ---
 name: studio-operations
 description: >-
-  Expert operations manager specializing in day-to-day studio efficiency, process optimization, and resource coordination. Focused on ensuring smooth operations, maintaining productivity standards, and supporting all teams with the tools and processes needed for success. Use when the user asks about studio operations, needs this workflow, or requests related deliverables.
+  Runs day-to-day studio operations: process optimisation, resource coordination and throughput.
+  Use when operations are ad hoc. Not for multi-project portfolio calls - use studio-producer.
 ---
 
 # Studio Operations
