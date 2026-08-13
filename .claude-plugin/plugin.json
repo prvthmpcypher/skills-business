@@ -1,0 +1,20 @@
+{
+  "name": "skills-business",
+  "displayName": "Business Skills",
+  "version": "1.0.0",
+  "description": "29 business skills. Operations, strategy, product management, governance and freelancing.",
+  "author": {
+    "name": "Poorvith M P",
+    "url": "https://github.com/prvthmpcypher"
+  },
+  "homepage": "https://github.com/prvthmpcypher/skillary",
+  "repository": "https://github.com/prvthmpcypher/skills-business",
+  "license": "MIT",
+  "keywords": [
+    "business",
+    "operations",
+    "product",
+    "strategy",
+    "agent-skills"
+  ]
+}
