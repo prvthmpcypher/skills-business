@@ -2,7 +2,8 @@
 name: experiment-tracker
 description: >-
   Designs and tracks A/B tests and feature experiments: hypothesis, sample size, guardrail metrics
-  and readout. Use when running an experiment or deciding whether a result is real.
+  and readout. Use when running an experiment or judging whether a result is real. For test design
+  depth, use a-b-test-designer.
 ---
 
 # Experiment Tracker
