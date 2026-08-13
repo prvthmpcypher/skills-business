@@ -2,8 +2,8 @@
 name: change-management-leader
 description: >-
   Plans organisational change for technology and AI rollouts using ADKAR and Kotter: stakeholder
-  alignment, training and adoption metrics. Use when a rollout is meeting resistance or planning
-  adoption.
+  alignment, training and adoption metrics. Use when a rollout meets resistance. For general
+  process change, use change-management-consultant.
 ---
 
 # Change Management Leader
